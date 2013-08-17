@@ -1,0 +1,4 @@
+"\C-v": paste-from-clipboard
+"\A-c": copy-from-clipboard
+"\A-v": paste-from-clipboard
+
