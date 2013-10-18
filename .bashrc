@@ -19,3 +19,7 @@ alias cdxamppwww='cd /c/xampp/htdocs/';
 alias cdxamppvps='cd /c/xampp/apache/conf/extra/';
 alias openxamppvps='open /c/xampp/apache/conf/extra/httpd-vhosts.conf'
 alias editxamppvps='nano /c/xampp/apache/conf/extra/httpd-vhosts.conf';
+
+#symfony
+alias symf='app/console'
+
